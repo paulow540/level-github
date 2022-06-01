@@ -1,0 +1,1 @@
+details = ['olamide', 'Male', 35]
